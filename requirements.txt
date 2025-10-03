@@ -1,0 +1,6 @@
+streamlit
+httpx
+beautifulsoup4
+lxml
+pandas
+xlsxwriter
